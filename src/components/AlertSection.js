@@ -1,1 +1,3 @@
-const AlertSection = ( {})
+const AlertSection = ( {body }) => {
+    return 
+}
