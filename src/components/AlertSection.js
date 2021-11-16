@@ -1,3 +1,3 @@
 const AlertSection = ( {body }) => {
-    return 
+    return <p></p>
 }
