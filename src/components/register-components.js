@@ -7,7 +7,7 @@ registerComponents({
     // Register all Stackbit components
     ...componentsMap
 
-    AlertSection
+    AlertSection: d
 
     // Override any static or dynamic component,
     // or register your own dynamic component.
