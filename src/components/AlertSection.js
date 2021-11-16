@@ -1,6 +1,6 @@
 const AlertSection = ({ annotationPrefix, body }) => {
     return (
-        <div data-sb-field
+        <div data-sb-field-path
     )
     
 }
