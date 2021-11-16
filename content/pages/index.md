@@ -96,8 +96,6 @@ sections:
       actions:
         justifyContent: center
     subtitle: Explore case studies
-  - body: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - body: I am an alert! Hear me rorar!
     type: AlertSection
 ---
