@@ -5,7 +5,7 @@ import AlertSection from './AlertSection';
 
 registerComponents({
     // Register all Stackbit components
-    ...componentsMap
+    ...componentsMap,
 
     AlertSection: dynamic(() => import('./AlertSection'))
 
